@@ -47,9 +47,9 @@
 Также было показано, что наиболее точной является 10-слойная свёрточная нейронная сеть. Точность составляет 98.3% что сопоставимо с точностью «MobileNetV2» 98,7%, но разработанная модель требует значительно меньшего времени, а следовательно и ресурсов, на обучение.
  
 
-Диаграмма 1
+### Диаграмма 1
 ![alt text](https://github.com/dmtryzarubin/CNN-Models-for-OCT-tomograms-classification/blob/master/imgs/%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.png "Диаграмма 2") 
 
 
-Диаграмма 2
+### Диаграмма 2
 ![alt text](https://github.com/dmtryzarubin/CNN-Models-for-OCT-tomograms-classification/blob/master/imgs/%D0%94%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2.png "Диаграмма 2")
