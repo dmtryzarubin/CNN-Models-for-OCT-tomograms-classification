@@ -45,7 +45,7 @@
  
 
 Диаграмма 1
- ![alt text](https://i.imgur.com/fSTeZMd.png "Диаграмма 1")
+ <img src = "imgs//Доля верных ответов.jpg">
 
 Диаграмма 2
 ![alt text](https://i.imgur.com/fSTeZMd.png "Диаграмма 2")
